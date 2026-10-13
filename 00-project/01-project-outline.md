@@ -2,8 +2,7 @@
 name: Mándity Gábor
 neptun: F0I4OY
 id: 2026-LG-03
-github: https://github.com/username/low-cost-headless-cms
-github_project: https://github.com/users/username/projects/1
+github: https://github.com/gaborm02/pteProjekt
 ---
 # Alacsony költségű headless CMS és statikus weboldalgenerátor
 
